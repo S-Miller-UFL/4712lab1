@@ -1,0 +1,27 @@
+C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter_tb
+-- Compiling architecture TB of counter_tb
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Loading package maxii_atom_pack
+-- Loading package maxii_components
+-- Loading entity counter
+
+} {} {}} C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter.vho {1 {vcom -work work -2002 -explicit -stats=none C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter.vho
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Loading package maxii_atom_pack
+-- Loading package maxii_components
+-- Compiling entity counter
+-- Compiling architecture structure of counter
+
+} {} {}}

@@ -1,0 +1,56 @@
+# Compile of counter.vho was successful.
+# Compile of counter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.counter_tb -sdftyp /UUT=C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter.sdo
+# vsim -gui work.counter_tb -sdftyp "/UUT=C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter.sdo" 
+# Start time: 16:45:06 on Sep 01,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading maxii.maxii_atom_pack(body)
+# Loading maxii.maxii_components
+# Loading work.counter_tb(tb)
+# SDF 2020.1 Compiler 2020.02 Feb 28 2020
+# 
+# Loading work.counter(structure)
+# Loading ieee.std_logic_arith(body)
+# Loading maxii.maxii_io(behave)
+# Loading maxii.maxii_lcell(vital_le_atom)
+# Loading maxii.maxii_asynch_lcell(vital_le)
+# Loading maxii.maxii_lcell_register(vital_le_reg)
+# Loading instances from C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter.sdo
+# Loading timing data from C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /counter_tb File: C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter_tb.vhd
+add wave -position end  sim:/counter_tb/output0
+add wave -position end  sim:/counter_tb/output1
+add wave -position end  sim:/counter_tb/output2
+add wave -position end  sim:/counter_tb/output3
+add wave -position end  sim:/counter_tb/output4
+add wave -position end  sim:/counter_tb/output5
+add wave -position end  sim:/counter_tb/output6
+add wave -position end  sim:/counter_tb/output7
+add wave -position end  sim:/counter_tb/output
+add wave -position end  sim:/counter_tb/data0
+add wave -position end  sim:/counter_tb/data1
+add wave -position end  sim:/counter_tb/data2
+add wave -position end  sim:/counter_tb/data3
+add wave -position end  sim:/counter_tb/data4
+add wave -position end  sim:/counter_tb/data5
+add wave -position end  sim:/counter_tb/data6
+add wave -position end  sim:/counter_tb/data7
+add wave -position end  sim:/counter_tb/data
+add wave -position end  sim:/counter_tb/clk
+add wave -position end  sim:/counter_tb/clr_n
+add wave -position end  sim:/counter_tb/ld_n
+add wave -position end  sim:/counter_tb/enable
+add wave -position end  sim:/counter_tb/rco
+add wave -position end  sim:/counter_tb/sim_done
+run -all
+# ** Note: SIMULATION FINISHED!
+#    Time: 33260 ns  Iteration: 0  Instance: /counter_tb
+# End time: 18:36:23 on Sep 01,2023, Elapsed time: 1:51:17
+# Errors: 0, Warnings: 7

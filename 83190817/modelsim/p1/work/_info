@@ -1,0 +1,108 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/steve/git repos/school/EEL4712/modelsim
+Ecounter
+Z0 w1693598133
+Z1 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z2 DPx5 maxii 15 maxii_atom_pack 0 22 M[3^e4UUhBPE2QBOTA<Y?1
+Z3 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z4 DPx5 maxii 16 maxii_components 0 22 `0P`LeL4Ve;z2d]fLfDzU3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 6
+Z7 dC:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1
+Z8 8C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter.vho
+Z9 FC:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter.vho
+l0
+L35 1
+V:QB4n24O5zNOe^1PTC]g[3
+!s100 o3<DGg78z]`>Q`>S<1:NK1
+Z10 OV;C;2020.1;71
+32
+Z11 !s110 1693601081
+!i10b 1
+Z12 !s108 1693601081.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter.vho|
+Z14 !s107 C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter.vho|
+!i113 1
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+Z17 DEx4 work 7 counter 0 22 :QB4n24O5zNOe^1PTC]g[3
+!i122 6
+l141
+L64 1033
+VJ@;oN1z:=;PXmdbIXKX_20
+!s100 MGR3:f7CCWNgS^HCIZP`N3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Ecounter_tb
+Z18 w1693597449
+Z19 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R5
+R6
+!i122 7
+R7
+Z20 8C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter_tb.vhd
+Z21 FC:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter_tb.vhd
+l0
+L8 1
+VS>Ya]0C>iIkha9`J>B87W3
+!s100 S1[Bdaelf6PZgfC@f;JDz2
+R10
+32
+R11
+!i10b 1
+R12
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter_tb.vhd|
+!s107 C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter_tb.vhd|
+!i113 1
+R15
+R16
+Atb
+R1
+R2
+R3
+R4
+R17
+R19
+R5
+R6
+Z23 DEx4 work 10 counter_tb 0 22 S>Ya]0C>iIkha9`J>B87W3
+!i122 7
+l41
+Z24 L11 131
+Z25 VX@22A`2H047S_X2Q`[HZK0
+Z26 !s100 7AWDWjZMhg8JN4l[cj4C?3
+R10
+32
+R11
+!i10b 1
+R12
+R22
+Z27 !s107 C:/Users/steve/git_repos/school/EEL4712/lab_1/83190817/modelsim/p1/counter_tb.vhd|
+!i113 1
+R15
+R16
