@@ -1,0 +1,117 @@
+# Compile of lab1_p2.vho was successful.
+# Compile of fa_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.fa_tb
+# vsim -gui work.fa_tb 
+# Start time: 12:44:24 on Sep 04,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading maxii.maxii_atom_pack(body)
+# Loading maxii.maxii_components
+# Loading work.fa_tb(tb)
+# Loading work.fa(structure)
+# Loading ieee.std_logic_arith(body)
+# Loading maxii.maxii_io(behave)
+# Loading maxii.maxii_lcell(vital_le_atom)
+# Loading maxii.maxii_asynch_lcell(vital_le)
+# Loading maxii.maxii_lcell_register(vital_le_reg)
+# Compile of lab1_p2.vho was successful.
+# Compile of fa_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+add wave -position end  sim:/fa_tb/input1
+add wave -position end  sim:/fa_tb/input2
+add wave -position end  sim:/fa_tb/carry_in
+add wave -position end  sim:/fa_tb/sum
+add wave -position end  sim:/fa_tb/carry_out
+run -all
+# ** Note: SIMLUATION FINISHED!
+#    Time: 320 ns  Iteration: 0  Instance: /fa_tb
+run -all
+# WARNING: No extended dataflow license exists
+# dfAddDataflowFromWave: ** UI-Msg: (vish-4014) No objects found matching 'inputs'.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.fa_tb(tb)
+# Loading work.fa(structure)
+run -all
+# ** Note: SIMLUATION FINISHED!
+#    Time: 320 ns  Iteration: 0  Instance: /fa_tb
+run -all
+quit -sim
+# End time: 13:48:28 on Sep 04,2023, Elapsed time: 1:04:04
+# Errors: 0, Warnings: 1
+# Compile of fa_tb.vhd was successful.
+# Compile of lab1_p2.vho was successful.
+# Compile of adder_tb.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+# Compile of fa_tb.vhd was successful.
+# Compile of lab1_p2.vho was successful.
+# Compile of adder_tb.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.adder_tb
+# vsim -gui work.adder_tb 
+# Start time: 13:50:59 on Sep 04,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading maxii.maxii_atom_pack(body)
+# Loading maxii.maxii_components
+# Loading work.adder_tb(tb)
+# Loading work.adder(structure)
+# Loading ieee.std_logic_arith(body)
+# Loading maxii.maxii_io(behave)
+# Loading maxii.maxii_lcell(vital_le_atom)
+# Loading maxii.maxii_asynch_lcell(vital_le)
+# Loading maxii.maxii_lcell_register(vital_le_reg)
+add wave -position end  sim:/adder_tb/input1
+add wave -position end  sim:/adder_tb/input2
+add wave -position end  sim:/adder_tb/sum
+add wave -position end  sim:/adder_tb/carry_in
+add wave -position end  sim:/adder_tb/carry_out
+run -all
+# ** Note: SIMULATION FINISHED!
+#    Time: 20480 ns  Iteration: 0  Instance: /adder_tb
+quit -sim
+# End time: 13:54:02 on Sep 04,2023, Elapsed time: 0:03:03
+# Errors: 0, Warnings: 7
+vsim -gui work.adder_tb -sdftyp /UUT=C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/lab1_p2_vhd.sdo
+# vsim -gui work.adder_tb -sdftyp "/UUT=C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/lab1_p2_vhd.sdo" 
+# Start time: 13:54:20 on Sep 04,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading maxii.maxii_atom_pack(body)
+# Loading maxii.maxii_components
+# Loading work.adder_tb(tb)
+# SDF 2020.1 Compiler 2020.02 Feb 28 2020
+# 
+# Loading work.adder(structure)
+# Loading ieee.std_logic_arith(body)
+# Loading maxii.maxii_io(behave)
+# Loading maxii.maxii_lcell(vital_le_atom)
+# Loading maxii.maxii_asynch_lcell(vital_le)
+# Loading maxii.maxii_lcell_register(vital_le_reg)
+# Loading instances from C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/lab1_p2_vhd.sdo
+# Loading timing data from C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/lab1_p2_vhd.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /adder_tb File: C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/adder_tb.vhd
+add wave -position end  sim:/adder_tb/input1
+add wave -position end  sim:/adder_tb/input2
+add wave -position end  sim:/adder_tb/sum
+add wave -position end  sim:/adder_tb/carry_in
+add wave -position end  sim:/adder_tb/carry_out
+run -all
+# ** Note: SIMULATION FINISHED!
+#    Time: 20480 ns  Iteration: 0  Instance: /adder_tb
+# End time: 13:57:24 on Sep 04,2023, Elapsed time: 0:03:04
+# Errors: 0, Warnings: 1

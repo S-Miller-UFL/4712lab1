@@ -1,0 +1,205 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/steve/source/eel4712/lab0/modelsim
+Eadder
+Z0 w1693849539
+Z1 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z2 DPx5 maxii 15 maxii_atom_pack 0 22 M[3^e4UUhBPE2QBOTA<Y?1
+Z3 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z4 DPx5 maxii 16 maxii_components 0 22 `0P`LeL4Ve;z2d]fLfDzU3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 8
+Z7 dC:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim
+Z8 8C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/lab1_p2.vho
+Z9 FC:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/lab1_p2.vho
+l0
+Z10 L35 1
+V:GCceFc@GoBJiA]X8TK_h3
+!s100 4AIY3`=h=nS5YVmF`5:4c2
+Z11 OV;C;2020.1;71
+32
+Z12 !s110 1693849843
+!i10b 1
+Z13 !s108 1693849843.000000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/lab1_p2.vho|
+Z15 !s107 C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/lab1_p2.vho|
+!i113 1
+Z16 o-work work -2002 -explicit
+Z17 tExplicit 1 CvgOpt 0
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+Z18 DEx4 work 5 adder 0 22 :GCceFc@GoBJiA]X8TK_h3
+!i122 8
+l75
+L48 368
+V;BC>NQNETHU2@Y81aVb_b0
+!s100 Y`B5Dc3H_dKhzE^iWiCE[3
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17
+Eadder_tb
+Z19 w1693844582
+Z20 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R5
+R6
+!i122 9
+R7
+Z21 8C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/adder_tb.vhd
+Z22 FC:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/adder_tb.vhd
+l0
+L8 1
+VlNzV;BRTo_:<@RIU:K?>L1
+!s100 PDNPhQNIQ4JdmiNVWd5YI3
+R11
+32
+R12
+!i10b 1
+R13
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/adder_tb.vhd|
+Z24 !s107 C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/adder_tb.vhd|
+!i113 1
+R16
+R17
+Atb
+R1
+R2
+R3
+R4
+R18
+R20
+R5
+R6
+Z25 DEx4 work 8 adder_tb 0 22 lNzV;BRTo_:<@RIU:K?>L1
+!i122 9
+l16
+Z26 L11 63
+Z27 Vn^JjCSfc]loAPWMfo=8:N0
+Z28 !s100 2E?IVF`@j[8^@^TA`74R82
+R11
+32
+R12
+!i10b 1
+R13
+R23
+R24
+!i113 1
+R16
+R17
+Efa
+Z29 w1693845658
+R1
+R2
+R3
+R4
+R5
+R6
+!i122 2
+R7
+R8
+R9
+l0
+R10
+VaSRmMI?17Bi]FR4f1AdCB1
+!s100 8kM<5`eWNa=kK>Dk_DV1@2
+R11
+32
+Z30 !s110 1693845904
+!i10b 1
+Z31 !s108 1693845904.000000
+R14
+R15
+!i113 1
+R16
+R17
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+Z32 DEx4 work 2 fa 0 22 aSRmMI?17Bi]FR4f1AdCB1
+!i122 2
+l69
+L48 131
+V4Ul0c3;EbAHPk`<;mYLZ81
+!s100 c0;2eYIi^O2WUGc4JloNV0
+R11
+32
+R30
+!i10b 1
+R31
+R14
+R15
+!i113 1
+R16
+R17
+Efa_tb
+R19
+R20
+R5
+R6
+!i122 7
+R7
+Z33 8C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/fa_tb.vhd
+Z34 FC:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/fa_tb.vhd
+l0
+L8 1
+VI_3P48INb@BMb3ij>;@EP1
+!s100 3_abXP8hnMOG:JhJ230mZ2
+R11
+32
+R12
+!i10b 1
+R13
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/fa_tb.vhd|
+Z36 !s107 C:/Users/steve/source/eel4712/lab1/83190817/P2/modelsim/fa_tb.vhd|
+!i113 1
+R16
+R17
+Atb
+R1
+R2
+R3
+R4
+R32
+R20
+R5
+R6
+DEx4 work 5 fa_tb 0 22 I_3P48INb@BMb3ij>;@EP1
+!i122 7
+l15
+L11 36
+V;71bgaGFnXX6ZEYW?:eG81
+!s100 FO=:8hk>d::o5CB`_T0@f0
+R11
+32
+R12
+!i10b 1
+R13
+R35
+R36
+!i113 1
+R16
+R17

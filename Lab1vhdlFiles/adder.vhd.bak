@@ -15,20 +15,8 @@ end adder;
 -- DEFINE A RIPPLE-CARRY ADDER USING A STRUCTURE DESCRIPTION THAT CONSISTS OF 4
 -- FULL ADDERS
 
-architecture STR of adder is    -- STR
+architecture STR of adder is  
+begin  -- STR
 
-signal carry1,carry2,carry3: std_logic;
-
-component fulladder
-port
-(
-cin, A,B: in std_logic;
-s,cout : out std_logic
-);
-end component;
-
-begin
-
-fulladder0: fulladder port map(carry_in,input1(0),input2(0),carry1);
 
 end STR;
